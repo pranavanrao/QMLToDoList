@@ -1,6 +1,10 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>TopBar.qml</file>
+        <file>TaskBox.qml</file>
+        <file>BottomBar.qml</file>
+        <file>TaskItem.qml</file>
     </qresource>
     <qresource prefix="/images">
         <file>add.png</file>
